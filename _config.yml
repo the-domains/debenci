@@ -1,0 +1,28 @@
+name: debenci
+favicon: null
+layout_spectrum: 0.43740213313139975
+typography_spectrum: 0.25907269958406687
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.03922068583779037
+  lightness: 0.11930908937938511
+  saturation: 0.14254409819841385
+  rhythmicContrast: 0.891080854460597
+purpose: []
